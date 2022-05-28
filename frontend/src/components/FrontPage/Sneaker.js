@@ -6,7 +6,7 @@ const Sneaker = () => {
   return (
     <div className="showBG">
       <div className="contText">
-        <h1>THE SHOE SHOP</h1>
+        <h1>Shoe Stop</h1>
         <h2>Happy Shopping!</h2>
         <Link to={{ pathname: `/products`, state: "all" }}>
           <button className="showbtn">Browse</button>
