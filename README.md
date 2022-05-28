@@ -17,14 +17,7 @@ This is a Ecommerce web application , allowing users to make purchase of product
     - Mongo DB NOSQL MUNCHAS GRACIAS SIUUU
 
 
-## Preview
-<br />
-Live demo: https://theshoeshop.netlify.app/
-<br />
-Backend Deployed to: Heroku
-Frontend Deployed to: Netlify
-<br />
-<br />
+
 
 ## Features of the application
 - Lists of all products;
