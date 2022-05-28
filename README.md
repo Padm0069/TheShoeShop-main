@@ -14,7 +14,7 @@ This is a Ecommerce web application , allowing users to make purchase of product
     - Node JS
     - Stripe Payment
     - AWS Storage
-    - Mongo DB NOSQL
+    - Mongo DB NOSQL MUNCHAS GRACIAS SIUUU
 
 
 ## Preview
